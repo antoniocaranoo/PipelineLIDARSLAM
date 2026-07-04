@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250717-1459-Experimental"
+	Name="otto-NUC"
+	Generator="ctest-4.0.0"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="otto-NUC"
+	OSRelease="6.2.0-060200-generic"
+	OSVersion="#202302191831 SMP PREEMPT_DYNAMIC Sun Feb 19 23:37:22 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="186"
+	ModelName="13th Gen Intel(R) Core(TM) i7-1360P"
+	ProcessorCacheSize="18432"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="63857"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3424.28"
+	>
+	<Testing>
+		<StartDateTime>Jul 24 23:07 CEST</StartDateTime>
+		<StartTestTime>1753391236</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 24 23:07 CEST</EndDateTime>
+		<EndTestTime>1753391236</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

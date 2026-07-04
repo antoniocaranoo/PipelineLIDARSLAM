@@ -1,0 +1,20 @@
+ira_slam:
+  ros__parameters:
+  
+    # SLAM params
+    min_displacement: 1.0
+    odom_topic: "/kiss/odometry"
+    pointcloud_topic: "/pointcloud_topic"
+
+    # Scan Context default parameters
+    num_rings: 20               # PC_NUM_RING
+    num_sectors: 60             # PC_NUM_SECTOR
+    max_radius: 80.0            # PC_MAX_RADIUS
+    lidar_height: 2.0           # LIDAR_HEIGHT
+
+    num_exclude_recent: 50      # NUM_EXCLUDE_RECENT
+    num_candidates_from_tree: 10 # NUM_CANDIDATES_FROM_TREE
+
+    search_ratio: 0.1           # SEARCH_RATIO
+    sc_dist_thres: 0.13         # SC_DIST_THRES
+    tree_making_period: 50      # TREE_MAKING_PERIOD_

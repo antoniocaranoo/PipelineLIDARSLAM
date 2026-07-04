@@ -1,0 +1,10 @@
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/uninstall.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/my_subscriber_uninstall.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/subscriber_node.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/test.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/edit_cache.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/rebuild_cache.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/list_install_components.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/install.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/install/local.dir
+/home/otto/ros2_ws/src/my_subscriber/build/CMakeFiles/install/strip.dir

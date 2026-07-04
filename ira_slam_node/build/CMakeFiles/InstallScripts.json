@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/otto/ros2_ws/src/my_subscriber/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
